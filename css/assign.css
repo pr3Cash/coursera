@@ -10,7 +10,7 @@ h1{
 p{  clear: both;
     border: 2px solid black;
     background-color: rgb(122, 122, 122);
-    width: 90%;height: 150px;;
+    width: 90%;height: auto;;
     margin-left: auto;margin-right: auto;color: rgb(0, 0, 0);
     overflow: hidden;padding: 10px;
     padding-top: 0%;
